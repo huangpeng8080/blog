@@ -122,6 +122,6 @@ Markdown 支持两种形式的链接语法： 行内式和参考式两种形式�
 
     [id]: http://example.com/  "Optional Title Here"  
     
-    
-
-
+This is [an example](http://example.com/ "Title") inline link.    
+This is [an example] [id] reference-style link.
+[id]: http://example.com/  "Optional Title Here"  
