@@ -31,7 +31,19 @@ Markdown 支持有序列表和无序列表。
 -   Red
 -   Green
 -   Blue
+
 </div>
+有序列表则使用数字接着一个英文句点：
+<div>
+1.  Bird
+2.  McHale
+3.  Parish
+</div>  
+
+1. xxx
+2. xxx
+3. ccc  
+
 
 
 
