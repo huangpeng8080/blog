@@ -59,12 +59,14 @@ Markdown 支持有序列表和无序列表。
 
     xxxx4 个空格或是 1 个制表符  
     
-在代码区块里面， & 、 < 和 > 会自动转成 HTML 实体，这样的方式让你非常容易使用 Markdown 插入范例用的 HTML 原始码，只需要复制贴上，再加上缩进就可以了，剩下的 Markdown 都会帮你处理，例如：  
-    <div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>  
+在代码区块里面， & 、 < 和 > 会自动转成 HTML 实体，这样的方式让你非常容易使用 Markdown 插入范例用的 HTML 原始码，只需要复制贴上，再加上缩进就可以了，剩下的 Markdown 都会帮你处理，例如:  
+ 
+     <div class="footer">
+     &copy; 2004 Foo Corporation
+     </div>  
     
 会被转换为：  
+
     <pre><code>&lt;div class="footer"&gt;
     &amp;copy; 2004 Foo Corporation
     &lt;/div&gt;
