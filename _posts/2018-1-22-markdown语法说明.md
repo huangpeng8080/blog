@@ -168,3 +168,4 @@ Markdown 使用星号（*）和底线（_）作为标记强调字词的符号，
  
      \*this text is surrounded by literal asterisks\*
      
+![Alt text](/path/to/img.jpg "Optional title")
